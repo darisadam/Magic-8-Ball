@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; configuration.title = "Ask"; ObjectID = "EKn-fb-YEW"; */
+"EKn-fb-YEW.configuration.title" = "Ask";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EKn-fb-YEW"; */
+"EKn-fb-YEW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ask Me Anything..."; ObjectID = "NhE-9h-yeh"; */
+"NhE-9h-yeh.text" = "Ask Me Anything...";
